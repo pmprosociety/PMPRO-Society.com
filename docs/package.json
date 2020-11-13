@@ -1,0 +1,19 @@
+{
+  "name": "pmprosociety",
+  "version": "0.1.0",
+  "description": "Software professionals working to convert insititutionalized knowledge about Product Management in a public, open-source good.",
+  "main": "index.js",
+  "authors": {
+    "name": "Paul Fischer",
+    "email": "paul@pmprosociety.com"
+  },
+  "repository": "/pmprosociety",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

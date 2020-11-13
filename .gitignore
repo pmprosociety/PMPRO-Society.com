@@ -1,0 +1,9 @@
+pids
+logs
+node_modules
+npm-debug.log
+coverage/
+run
+.DS_Store
+config.local.js
+articleideas.md
