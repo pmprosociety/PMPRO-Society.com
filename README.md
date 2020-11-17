@@ -1,7 +1,7 @@
 
 <h2 align="center">PMPRO Society</h2>
 
-<p align="center"> <b> Reshaping institutionalized knowledge about Product Management into a public, open-source good
+<p align="center"> <b> Converting institutionalized knowledge about Product Management into a public, open-source good
 </b></p>
 
 <div align="center">
