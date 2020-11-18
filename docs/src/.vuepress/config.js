@@ -57,8 +57,9 @@ module.exports = {
         collapsable: false,
         children: [
           'upstream.md',
-          'sprintlog.md',
+          'datadriven.md',
           'prioritizing.md',
+          'sprintlog.md',
           'stages.md',
           'scopeofwork.md',
           'onboarding.md',

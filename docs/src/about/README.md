@@ -1,8 +1,6 @@
 ![home banner](/site-banner.png)
 > *Software bearing good value, worth and reliability*
 
-**We're a group of software professionals working to convert institutionalized knowledge about Product Management into a public, open-source good** :book:
-
 In software development, Product Managers occupy a strategic role; they sit at the intersection of product development, product quality and client satisfaction.
 
 Unfortunately, much of the knowledge to hone or improve your skills as a Product Manager is locked away within corporate product teams or experienced individuals.

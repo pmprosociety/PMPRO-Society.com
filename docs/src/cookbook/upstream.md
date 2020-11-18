@@ -1,7 +1,7 @@
-# Upstream Process
+# Triage Features
 The upstream process describes a methodology PMs can use to collect incoming ideas and transform them into products or features. 
 
-Using this approach, PMs can methodically work toward achieving company goals and building awesome new applications.
+Using this approach, PMs can work toward achieving company goals and building awesome new applications.
 
 The upstream process enhances (or sits on top of) the existing RnD life-cycle to ensure features are prioritized, validated and refined. In the event that the group needs to pivot to other priorities, the upstream process will help to you articulate which features should be dropped in order to change direction; a vital skill all PMs should to have!
 
