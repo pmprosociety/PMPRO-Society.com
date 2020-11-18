@@ -8,6 +8,19 @@ Check here for the latest contributions to "The Cookbook" and found how who lead
 
 ::: 
 
+## #001 Edition - November
+
+| Title | Description | Contributor |
+| ------ | ----------- | ----------- |
+| [Triage Features >](/cookbook/upstream.md)  | Handle a large amount of product feedback at a time.  | Paul Fischer |
+| [Data Driven Product Management >](/cookbook/datadriven.md)  | Instrumenting your app to capture product events  | Paul Fischer |
+| [Prioritizing Features (RICE) >](/cookbook/prioritizing.md)  | How to know what to build first?  | Paul Fischer |
+| [The Sprint Log >](/cookbook/sprintlog.md)   | Thoughtfully plan out your new application and plot the work over time. | Paul Fischer |
+| [Project Stages >](/cookbook/stages.md)   | Find out how software projects move through stages. | Paul Fischer|
+| [Scope of Work >](/cookbook/scopeofwork.md)  | Get new customers quickly with this template to guide new feature development | Paul Fischer |
+| [Onboarding to New Products >](/cookbook/onboarding.md)  | New to a company? Ramp up as PM quickly using this as a reference | Paul Fischer | 
+| [Product One-Pager >](/cookbook/productonepager.md)  | Can you articulate what your product does in one page? | Paul Fischer |
+
 # Leaderboard
 Identifies the most influential and prolific writers in Product Management. 
 
@@ -18,14 +31,3 @@ Identifies the most influential and prolific writers in Product Management.
 |   3    |             |             |           |
 |   4    |             |             |           |
 |   5    |             |             |           |
-
-## #001 Edition - November
-
-| Title | Description | Contributor |
-| ------ | ----------- | ----------- |
-| [Project Stages >](/cookbook/stages.md)   | Find out how software projects move through stages. | Paul Fischer|
-| [Upstream Process >](/cookbook/upstream.md)  | Handle a large amount of product feedback at scale.  | Paul Fischer |
-| [The Sprint Log >](/cookbook/sprintlog.md)   | Thoughtfully plan out your new application and plot the work over time. | Paul Fischer |
-| [Scope of Work >](/cookbook/scopeofwork.md)  | Get new customers quickly with this template to guide new feature development | Paul Fischer |
-| [Onboarding to New Products >](/cookbook/onboarding.md)  | New to a company? Ramp up as PM quickly using this as a reference | Paul Fischer | 
-
