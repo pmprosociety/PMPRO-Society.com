@@ -3,7 +3,7 @@
 ::: tip The Latest Feed
 PMPRO is updated with new articles on the 1st and 15th every month. Together they form a single "edition" for that month. 
 
-Check here for the latest contributions to "The Cookbook" and found how who leads our most well-known contributors. 
+Check here for the latest contributions to "The Cookbook" and find out who leads our contributors list. 
 
 
 ::: 
