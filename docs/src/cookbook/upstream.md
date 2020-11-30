@@ -5,6 +5,9 @@ Using this approach, PMs can work toward achieving company goals and building aw
 
 The upstream process enhances (or sits on top of) the existing RnD life-cycle to ensure features are prioritized, validated and refined. In the event that the group needs to pivot to other priorities, the upstream process will help to you articulate which features should be dropped in order to change direction; a vital skill all PMs should to have!
 
+## Key Interactions
+![Upstream Process](/upstream.png)
+
 ## Upstream Objectives
 What does the upstream process look to achieve?
 + Handle an expanding number of customer feature requests aka "ideas"
@@ -23,9 +26,6 @@ What does the upstream process look to achieve?
 | Initiative | Spans at most 6-9 months, may contain 3-10 epics and linked to 1 or more teams. *ie Kubernetes infrastructure adoption* |
 | Epic    | Spans at most 1-3 months, linked to one team. *ie Containerize runtime engines* |
 | Story    | Spans one man week, represents the minimal increment work item for the team. *documentation of the feature* |
-
-## Key Interactions
-![Upstream Process](/upstream.png)
 
 ### Ideas
 New ideas or feature requests can come from many different places. This includes: product users, sales, competitors, internal stakeholders or from market analysis. Ideas represent the low-fidelity wish of your users which needs to be refined to a state where RnD can move forward with development. Using a wireframing approach to refinement helps to communicate ideas in a visual way. 

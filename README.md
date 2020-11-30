@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://authcompanion.com">
-     <img alt="Active" src="https://img.shields.io/badge/Total%20Articles-6-success">
+     <img alt="Active" src="https://img.shields.io/badge/Total%20Articles-9-success">
   </a>
 
 
