@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://pmprosociety.com/" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/VDcUXtq.png" alt="Project logo"></a>
+</p>
 
 <h2 align="center">PMPRO Society</h2>
 
@@ -24,10 +28,10 @@ Unfortunately, much of the knowledge to hone or improve your skills as a Product
 **PMPRO Society** is a collection of writings which PMs can use to navigate and grow in their profession.
 
 ## Getting Started
-[The Cookbook >](https://pmprosociety/cookbook/)
+[The Cookbook >](https://pmprosociety.com/cookbook/)
 A compilation of "recipes" to help PMs better engage with people, processes, and products.
 
-[Latest Pages >](https://pmprosociety/latest/)
+[Latest Pages >](https://pmprosociety.com/latest/)
 Find out what's new and about the top contributors.
 
 ## Come for the Content, Stay for the Community
@@ -36,13 +40,14 @@ Our mission is to create a critical mass of knowledge for PMs, and make it open 
 
 Find out how our top contributors benefit and join us!
 
-[Contributing to the PMPRO Society >](https://pmprosociety/contribute/)
+[Contributing to the PMPRO Society >](https://pmprosociety.com/contribute/)
 
 ## License
 
 The PMPRO Society repo is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributions
+
 Author: Paul Fischer
 
 
