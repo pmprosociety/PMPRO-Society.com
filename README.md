@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pmprosociety.com/" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/VDcUXtq.png" alt="Project logo"></a>
+ <img height=280px src="https://i.imgur.com/VDcUXtq.png" alt="Project logo"></a>
 </p>
 
 <h2 align="center">PMPRO Society</h2>
