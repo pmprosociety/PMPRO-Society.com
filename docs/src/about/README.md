@@ -8,10 +8,10 @@ Unfortunately, much of the knowledge to hone or improve your skills as a Product
 **PMPRO Society** is a collection of writings which PMs can use to navigate and grow in their profession.
 
 ::: tip Jump right in:
-[The PM Cookbook >](./cookbook/readme.md)
+[The PM Cookbook >](../cookbook/readme.md)
 Read about the approaches for product success, and reach your PM nirvana.
 
-[Latest Pages >](./latest/readme.md)
+[Latest Pages >](../latest/readme.md)
 Find out what's new and about the top contributors.
 
 :::
@@ -21,5 +21,5 @@ Our mission is to create a critical mass of knowledge for PMs, and make it open 
 
 Find out how our top contributors benefit and join us!
 
-[Contributing to the PMPRO Society >](./contribute)
+[Contributing to the PMPRO Society >](../contribute/readme.md)
 
